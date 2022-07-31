@@ -3,7 +3,7 @@ This project shows the way to deploy Deep Learning model in java language
 
 if it's helpful for you,plz star me,I'll so appreciate it
 
-### 1 Environment
+###  Environment
 #### Java
 
 - jdk 1.8
